@@ -1,0 +1,16 @@
+{
+  "name": "item-scalper",
+  "version": "1.0.0",
+  "description": "A bot to scalp an item from E - Commerce site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.5",
+    "puppeteer": "^9.1.1"
+  }
+}
