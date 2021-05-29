@@ -1,6 +1,6 @@
-# Bot to scalp product
+# Bot to scrape product
 
-This is is simple bot to scalp for any product from Amazon (as for now, will be planning to add for other e-commerce sites as well).
+This is is simple bot to scrape for any product from Amazon (as for now, will be planning to add for other e-commerce sites as well).
 This helped me to grab my Playstation 5 ❤️
 
 # Usage
