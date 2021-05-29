@@ -12,6 +12,8 @@ npm start "<amazon email>" "<amazon password>" "<product page>"
 ```
 The product page example would be something like this `https://www.amazon.in/gp/product/B08RFC9DRQ/ref=crt_ewc_title_huc_1?ie=UTF8&psc=1&smid=AT95IG9ONZD7S`
 
+If it's not available, then it just waits for the product to get in stock
+
 And voila!!!<br/>
 Wait for it it land till the payment selection page<br/>
 Continue manually the next process <br/>
